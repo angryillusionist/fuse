@@ -1,4 +1,4 @@
-# Change the angular components style.
+# Changing the angular components style.
 
 
 
